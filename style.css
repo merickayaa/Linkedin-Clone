@@ -1,0 +1,36 @@
+.thumbnail{
+    width: 50px;
+    height: 50px;
+}
+.font-1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.t-2{
+    width: 30px;
+    height: 30px;
+}
+.p-1{
+    position: absolute;
+}
+.t-3{
+    width: 75px;
+    height: 75px;
+}
+input[type=text] {
+
+    background-color: white;
+
+    background-image: url(https://www.pasifikkargo.com/wp-content/uploads/2016/06/form.png);
+
+    background-position: 20px 15px;
+
+    background-repeat: no-repeat;
+
+    padding-left: 70px;
+    
+    background-size: 30px;
+}
+::placeholder{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
